@@ -1,0 +1,30 @@
+{
+  "ST01": {
+    "name": "Sanskriti",
+    "city": "Indore",
+    "age": 23,
+    "gender": "Female",
+    "problems_solved": 81
+  },
+  "ST02": {
+    "name": "Shivani",
+    "city": "Banglore",
+    "age": 23,
+    "gender": "Female",
+    "problems_solved": 78
+  },
+  "ST03": {
+    "name": "Shivam",
+    "city": "Indore",
+    "age": 32,
+    "gender": "Male",
+    "problems_solved": 70
+  },
+  "ST04": {
+    "name": "Aman",
+    "city": "Delhi",
+    "age": 25,
+    "gender": "Male",
+    "problems_solved": 60
+  }
+}
